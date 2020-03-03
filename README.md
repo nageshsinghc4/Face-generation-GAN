@@ -2,4 +2,4 @@
 
 Dataset can be downloaded from: https://www.kaggle.com/jessicali9530/celeba-dataset
 
-![Sample input images](https://ibb.co/vYg3xwT)
+![sample input images](https://github.com/nageshsinghc4/Face-generation-GAN/blob/master/Capture.PNG)
