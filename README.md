@@ -1,5 +1,5 @@
 # Face-generation-GAN
-Our objective is to create a model capable of generating realistic human images that do not exist in reality.
+Our objective is to create a model capable of generating realistic human images that do not exist in reality. (In future, I will upload a number of use cases on GAN and its variants).
 
 You heard it right!!!!!!
 
