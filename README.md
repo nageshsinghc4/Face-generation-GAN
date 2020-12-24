@@ -9,7 +9,7 @@ GAN Architecture:
 
 Dataset can be downloaded from: https://www.kaggle.com/jessicali9530/celeba-dataset
 
-You can follow this article to understand it step by step [**here**](https://www.theaidream.com/post/generate-realistic-human-face-using-gan-1)
+You can follow this article on [www.theaidream.com](https://www.theaidream.com/post/generate-realistic-human-face-using-gan-1) to understand it step by step approch.
 
 Sample Input images:
 
