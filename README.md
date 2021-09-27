@@ -11,11 +11,11 @@ Dataset can be downloaded from: https://www.kaggle.com/jessicali9530/celeba-data
 
 You can follow this article on [www.theaidream.com](https://www.theaidream.com/post/generate-realistic-human-face-using-gan-1) to understand it step by step approch and also check my [kaggle notebook](https://www.kaggle.com/nageshsingh/generate-realistic-human-face-using-gan) for implementation.
 
-Sample Input images:
+### Sample Input images:
 
 ![sample input images](https://github.com/nageshsinghc4/Face-generation-GAN/blob/master/Capture.PNG)
 
 
-Output:
+### Output:
 
 ![output images](https://github.com/nageshsinghc4/Face-generation-GAN/blob/master/visual%20(2).gif)
